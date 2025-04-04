@@ -768,6 +768,23 @@ Elastic Observability is a full-stack observability solution and includes Log Mo
 - [X/Twitter](https://twitter.com/elastic)
 </details>
 
+#### [Fiddler AI](https://www.fiddler.ai)
+<details>
+<img src="./public/images/fiddler-ai.svg" width ="200" alt="Fiddler AI">
+
+ ##### Category
+ OBSERVABILITY AND GOVERNANCE LAYER - Evaluation & Monitoring
+
+##### Description
+Fiddler is the all-in-one AI Observability and Security platform for responsible AI, providing monitoring, analytics, and centralized controls to operationalize ML, GenAI, and LLM applications with trust.
+
+##### Links
+- [Website](https://www.fiddler.ai)
+- [LinkedIn](https://www.linkedin.com/company/fiddler-ai)
+- [LLM Guardrails Free Trial](https://www.fiddler.ai/guardrails-trial)
+- [X/Twitter](https://twitter.com/fiddler_ai)
+</details>
+
 ### Risk & Compliance
 
 Frameworks for ensuring responsible AI use and regulatory compliance
